@@ -1,8 +1,14 @@
 # Leanna's Mindset  
 
-My name is Leanna and I am new to coding. Read this page to learn about how I will be changing my mindset to learn as much as I can. 
-
 ![leanna](https://user-images.githubusercontent.com/105640476/168579890-ad1426dc-fb06-4fcc-8043-537cf00322f9.jpg)
+
+My name is Leanna and I am new to coding. Read this page to learn about how I will be changing my mindset to learn as much as I can. You can view my GitHub profile [here](https://github.com/LeannaCodes)
+
+I live in Norwich with my partner Bronwyn and my cat Mr.Bear
+
+<img src="https://user-images.githubusercontent.com/105640476/168582252-b5ac5baf-c14d-400d-a168-d18a9e5fb915.jpg" width="200" />
+
+<img src="https://user-images.githubusercontent.com/105640476/168582290-6c6cc9c8-b858-464a-ba3e-05570a514fc8.jpg" width="200" />
 
 ## Growth Mindset
 
