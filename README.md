@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Leanna's Mindset  
 
-You can use the [editor on GitHub](https://github.com/LeannaCodes/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Leanna and I am new to coding. Read this page to learn about how I will be changing my mindset to learn as much as I can. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![leanna](https://user-images.githubusercontent.com/105640476/168579890-ad1426dc-fb06-4fcc-8043-537cf00322f9.jpg)
 
-### Markdown
+## Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Having a **growth mindset** is important because it allows you to *positively* expand your learning. It's about believing in yourself and realising that **hard work and effort** will get you to where you need to be and that talent/intelligence is simply a starting point. Anyone can learn with a growth mindset.  
 
-```markdown
-Syntax highlighted code block
+### A Fixed Mindset Can Be Damaging To Your Learning
 
-# Header 1
-## Header 2
-### Header 3
+**Fixed Mindset:** 
 
-- Bulleted
-- List
+> ~~I will avoid this challenge because it seems too hard.~~
 
-1. Numbered
-2. List
+**Growth Mindset:**
 
-**Bold** and _Italic_ and `Code` text
+> I will embrace this challenge because everyone starts somewhere. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeannaCodes/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How Am I Going To Keep a Growth Mindset? 
+1. Embrace challenges 
+2. Let other coders inspire me/motivate me
+3. work hard and persist
