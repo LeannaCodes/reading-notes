@@ -1,0 +1,14 @@
+/*
+#F9B9A5
+#F2ACB9
+#FFB5C3
+#D99AA5
+*/
+header{
+background-color:#F9B9A5 ;
+column-rule-color:blueviolet ;
+font-size: large;
+padding: 16px;
+display: flex;
+list-style: none;
+}
