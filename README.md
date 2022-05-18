@@ -29,13 +29,13 @@ Having a **growth mindset** is important because it allows you to *positively* e
 2. Let other coders inspire me/motivate me
 3. work hard and persist
 
-##The Terminal
+## The Terminal
 
 - The Terminal is a different way of navigating your files and folders on your computer.
 -  It allows you to access, create and edit folders by typing out commands. 
 -  This is a quick and convenient way of nagivating as you don't have to reach for the mouse (however it can also slow things down if it doesn't work)
 
-##Text Editors 
+## Text Editors 
 
 - Text editors are a quick and convenient way of coding. 
 - They create shortcuts and the end of tags to speed up your coding process. 
