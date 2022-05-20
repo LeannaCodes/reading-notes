@@ -2,7 +2,7 @@
 
 ![leanna](https://user-images.githubusercontent.com/105640476/168579890-ad1426dc-fb06-4fcc-8043-537cf00322f9.jpg)
 
-- [class 02](https://leannacodes.github.io/reading-notes/class-03)
+- [class 02](https://leannacodes.github.io/reading-notes/class-02)
 - [class 03](https://leannacodes.github.io/reading-notes/class-03)
 - [class 04](https://leannacodes.github.io/reading-notes/class-04)
 - [class 05](https://leannacodes.github.io/reading-notes/class-05)
