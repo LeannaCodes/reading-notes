@@ -2,6 +2,14 @@
 
 ![leanna](https://user-images.githubusercontent.com/105640476/168579890-ad1426dc-fb06-4fcc-8043-537cf00322f9.jpg)
 
+[class 02](https://leannacodes.github.io/reading-notes/class-03)
+[class 03](https://leannacodes.github.io/reading-notes/class-03)
+[class 04](https://leannacodes.github.io/reading-notes/class-04)
+[class 05](https://leannacodes.github.io/reading-notes/class-05)
+[class 06](https://leannacodes.github.io/reading-notes/class-06)
+[class 07](https://leannacodes.github.io/reading-notes/class-07)
+[class 08](https://leannacodes.github.io/reading-notes/class-08)
+
 My name is Leanna and I am new to coding. Read this page to learn about how I will be changing my mindset to learn as much as I can. You can view my GitHub profile [here](https://github.com/LeannaCodes)
 
 I live in Norwich with my partner Bronwyn and my cat Mr.Bear
