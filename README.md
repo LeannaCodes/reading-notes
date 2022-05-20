@@ -1,6 +1,14 @@
-# Leanna's Mindset  
+# Leanna Lucas  
 
 ![leanna](https://user-images.githubusercontent.com/105640476/168579890-ad1426dc-fb06-4fcc-8043-537cf00322f9.jpg)
+
+- [class 02](https://leannacodes.github.io/reading-notes/class-02)
+- [class 03](https://leannacodes.github.io/reading-notes/class-03)
+- [class 04](https://leannacodes.github.io/reading-notes/class-04)
+- [class 05](https://leannacodes.github.io/reading-notes/class-05)
+- [class 06](https://leannacodes.github.io/reading-notes/class-06)
+- [class 07](https://leannacodes.github.io/reading-notes/class-07)
+- [class 08](https://leannacodes.github.io/reading-notes/class-08)
 
 My name is Leanna and I am new to coding. Read this page to learn about how I will be changing my mindset to learn as much as I can. You can view my GitHub profile [here](https://github.com/LeannaCodes)
 
@@ -28,16 +36,3 @@ Having a **growth mindset** is important because it allows you to *positively* e
 1. Embrace challenges 
 2. Let other coders inspire me/motivate me
 3. work hard and persist
-
-## The Terminal
-
-- The Terminal is a different way of navigating your files and folders on your computer.
--  It allows you to access, create and edit folders by typing out commands. 
--  This is a quick and convenient way of nagivating as you don't have to reach for the mouse (however it can also slow things down if it doesn't work)
-
-## Text Editors 
-
-- Text editors are a quick and convenient way of coding. 
-- They create shortcuts and the end of tags to speed up your coding process. 
-- They are also a great way of sharing your code with friends and colleagues and working on collaborative projects. 
-- You can use text editors to practice code and track your progress 
