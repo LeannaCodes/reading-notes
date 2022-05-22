@@ -10,5 +10,32 @@ column-rule-color:blueviolet ;
 font-size: large;
 padding: 16px;
 display: flex;
-list-style: none;
 }
+
+ul { 
+    list-style: none;
+    display: flex;
+}
+
+
+.h1-underline {
+text-decoration: underline;
+}
+
+a {
+    color: hotpink;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: underline overline;
+}
+
+.css-list {
+    text-decoration: dotted;
+    list-style: circle;
+    display: list-item;
+}
+
