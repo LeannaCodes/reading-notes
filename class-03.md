@@ -7,6 +7,7 @@
 - Git keeps history of these 'snapshots'. 
 - Git has a special label called ***HEAD*** which means ***you are here***
 - Ususally you give a 'snapshot'(changes) a label called a message. This is so when you're working on a collab project, your team will be able to see and understand any modifications to the repos that has been changed. 
+
 Place git meme here 
 
 ## Git Code 
@@ -20,7 +21,7 @@ Place git meme here
 
 **GIT IS NOT THE SAME AS GITHUB.**
 **GITHUB SIMPLY USES GIT TO HELP MANAGE YOUR TEAMS WORK**
-**GITHUB + GIT = AWESOME! 
+**GITHUB + GIT = AWESOME!** 
 
 ## Repos Summary
 
