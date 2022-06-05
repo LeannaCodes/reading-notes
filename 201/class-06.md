@@ -256,4 +256,31 @@ Developing a strong grasp of primitive values, object references, and mutability
 
 This knowledge will help you identify bugs, understand key differences in programming paradigms, and help you understand your code at a deeper level.
 
+# What is An Object?
+
+Objects group together a set of variables and functions to create a model of something you would recognize from the real world. In an object, variables and functions take on new names. 
+
+**In an object, variables become known as properties**
+If a variable is part of a object, it is known as a property. Properties tell us about the object, such as the name of a hotel or number of rooms it has. each individual hotel might have a different name or different number of rooms. 
+
+**In an object, functions become known as methods**
+If a function is part of an object, it becomes a method. Methods represent tasks that are associated with the object. For example, you can check how many rooms are available by subtracting the number of booked rooms from the total number of rooms. 
+
+This object represents a hotel. It has 5 properties and 1 method. The object is in curly braces. It is stored in a variable called hotel. 
+
+```
+let hotel = {
+  name: "Quay";,
+  rooms: 40,
+  booked: 25,
+  gym: true,
+  roomTypes: ["twin", "double", "suite"],
+
+  CheckAvailability: function() {
+    return this.rooms - this. booked;
+  }
+};
+```
+
+
 
